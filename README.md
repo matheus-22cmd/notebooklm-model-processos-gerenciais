@@ -28,7 +28,8 @@ Ficou claro como essa estrutura sustenta o funcionamento de uma empresa? Se quis
 
 Utilizando função gerar relatório
 
-Output:
+Output: [Strategic_Decision_Blueprint.pdf](https://github.com/matheus-22cmd/notebooklm-model-processos-gerenciais/blob/main/Strategic_Decision_Blueprint.pdf)
+
 
 
 
